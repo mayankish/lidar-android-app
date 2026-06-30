@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme; Compose's LidarBotSystemTheme (ui/theme/Theme.kt)
+         drives actual colors/typography at runtime. This XML theme only needs
+         to exist to satisfy the manifest's android:theme reference and to set
+         the splash/window background before Compose takes over. -->
+    <style name="Theme.LidarBotSystem" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
